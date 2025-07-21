@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amarnath</h1>
-<h3 align="center">A passionate about Cyber Security, Machine Learning and Data Science.</h3>
+<h3 align="center">I am passionate about Cyber Security, Machine Learning and Data Science.</h3>
 
 - 🌱 I’m currently learning **LLMs, LangChain, LangGraph and Rust.**
 
